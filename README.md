@@ -13,8 +13,9 @@
  
 
 ## [Дипломный проект по автоматизации тестирования сайта и мобильного приложения Drom.ru](https://github.com/pashuh/project_drom) 
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 <img width="100%" title="Drom.ru" src="images/drom.jpg">
+Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pashuh)](https://github.com/pashuh/github-readme-stats)
 
